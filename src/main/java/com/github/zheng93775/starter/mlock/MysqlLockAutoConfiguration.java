@@ -16,7 +16,7 @@ import javax.sql.DataSource;
 import java.util.Map;
 
 /**
- * Created by zhengjh on 2019/6/13.
+ * Created by zheng93775 on 2019/6/13.
  */
 @Configuration
 @ConditionalOnProperty(value = "mysql-lock.enable", matchIfMissing = true)
